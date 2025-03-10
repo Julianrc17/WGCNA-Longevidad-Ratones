@@ -3,7 +3,7 @@
 # Gene Expression Analysis using WGCNA
 
 ## Overview
-This project performs Weighted Gene Co-expression Network Analysis (WGCNA) using RNA sequencing count data. The objective is to identify gene modules associated with phenotypic traits such as condition, sex, and age. The analysis includes data preprocessing, normalization, variance filtering, clustering, module detection, and functional enrichment analysis.
+This project performs Weighted Gene Co-expression Network Analysis (WGCNA) using RNA sequencing count data to study the longevity of mice. The objective is to identify gene modules associated with phenotypic traits such as condition, sex, and age. The analysis includes data preprocessing, normalization, variance filtering, clustering, module detection, and functional enrichment analysis.
 
 ## Libraries Used
 The following R libraries are required for the analysis:
